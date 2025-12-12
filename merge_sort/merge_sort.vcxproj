@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{deb3e12f-e3b0-4f63-a78b-145b5d9b608e}</ProjectGuid>
-    <RootNamespace>quicksortcpp</RootNamespace>
+    <ProjectGuid>{96858421-704a-48f4-ab16-61d8e9bda3f7}</ProjectGuid>
+    <RootNamespace>mergesort</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="quick_sort.cpp" />
+    <ClCompile Include="merge_sort.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
