@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "merge_sort", "merge_sort.vc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "merge_sort_cpp", "..\merge_sort_cpp\merge_sort_cpp.vcxproj", "{27167D86-D268-411E-BE79-ADAF576C3FC5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "heap_sort", "..\heap_sort\heap_sort.vcxproj", "{BDECDDFF-E085-4381-9E3A-1EE377327962}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{27167D86-D268-411E-BE79-ADAF576C3FC5}.Release|x64.Build.0 = Release|x64
 		{27167D86-D268-411E-BE79-ADAF576C3FC5}.Release|x86.ActiveCfg = Release|Win32
 		{27167D86-D268-411E-BE79-ADAF576C3FC5}.Release|x86.Build.0 = Release|Win32
+		{BDECDDFF-E085-4381-9E3A-1EE377327962}.Debug|x64.ActiveCfg = Debug|x64
+		{BDECDDFF-E085-4381-9E3A-1EE377327962}.Debug|x64.Build.0 = Debug|x64
+		{BDECDDFF-E085-4381-9E3A-1EE377327962}.Debug|x86.ActiveCfg = Debug|Win32
+		{BDECDDFF-E085-4381-9E3A-1EE377327962}.Debug|x86.Build.0 = Debug|Win32
+		{BDECDDFF-E085-4381-9E3A-1EE377327962}.Release|x64.ActiveCfg = Release|x64
+		{BDECDDFF-E085-4381-9E3A-1EE377327962}.Release|x64.Build.0 = Release|x64
+		{BDECDDFF-E085-4381-9E3A-1EE377327962}.Release|x86.ActiveCfg = Release|Win32
+		{BDECDDFF-E085-4381-9E3A-1EE377327962}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
